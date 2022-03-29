@@ -1,0 +1,14 @@
+.text-align {
+  text-align: start;
+}
+@media screen and (min-width: 768px) {
+  .text-align {
+    text-align: end;
+  }
+}
+.card {
+  max-width: 286px;
+}
+.justify-content-around {
+  justify-content: space-around !important;
+}
